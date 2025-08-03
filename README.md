@@ -43,12 +43,9 @@ A linear regression model was used to predict mortality based on multiple featur
 - Independent variables: Skilled Birth, Antenatal Care, Health Spending
 - Target variable: Maternal Mortality
 
-```python
-model = LinearRegression()
-model.fit(X_train, y_train).
+## Final project dashboard 
+You can access the final project dashboard by clicking here: https://drive.google.com/file/d/1HS8vXezdfhGvjiEKkihbd1rGFM0e62ez/view?usp=drive_link
 
-## Final project dashboard
-You can access the final project dashboard by clicking here: https://drive.google.com/file/d/1HS8vXezdfhGvjiEKkihbd1rGFM0e62ez/view?usp=sharing
 
 
 
