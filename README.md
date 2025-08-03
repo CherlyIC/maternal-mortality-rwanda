@@ -17,6 +17,7 @@ Maternal mortality is a major public health concern in many developing countries
   ## Dataset description
 The analysis uses publicly available datasets downloaded from the **World Bank** you can see it in the folder above named my-datasets
 I used 5datased but i merged them into a final datased called: `final_maternal_data.csv`
+You can download all of those dataset using this link:https://data.worldbank.org/indicator/SH.STA.MMRT?locations=RW
 
   ## Technologies used
 - **Python (Jupyter Notebook)**: Data cleaning, analysis, modeling
@@ -46,8 +47,8 @@ A linear regression model was used to predict mortality based on multiple featur
 model = LinearRegression()
 model.fit(X_train, y_train).
 
-## Dashboard screenshot
-<img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/ad68e75d-be3c-4b58-b608-6e51a8cef340" />
+## Final project dashboard
+You can access the final project dashboard by clicking here: https://drive.google.com/file/d/1HS8vXezdfhGvjiEKkihbd1rGFM0e62ez/view?usp=sharing
 
 
 
