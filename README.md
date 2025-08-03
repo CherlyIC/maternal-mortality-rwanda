@@ -44,6 +44,8 @@ A linear regression model was used to predict mortality based on multiple featur
 - Target variable: Maternal Mortality
 
 ## Final project dashboard 
+<img width="1168" height="658" alt="image" src="https://github.com/user-attachments/assets/04b1f771-f623-4ad9-b09d-e4b1b846ce5f" />
+
 You can access the final project dashboard by clicking here: https://drive.google.com/file/d/1HS8vXezdfhGvjiEKkihbd1rGFM0e62ez/view?usp=drive_link
 
 
